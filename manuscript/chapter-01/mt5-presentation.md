@@ -1,7 +1,5 @@
 # Présentation de Metatrader 5
 
-Donc je suis tombé dans la soupe et je sais pas du tout comment fonctionne ce logiciel, il est disponible gratuitement comme la grande majorité des logiciels aujourd'hui
-
 Quand on lance Metatrader 5 ça ressemble à ça
 
 ![mt5](manuscript/images/mt5.png)
