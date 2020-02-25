@@ -1,1 +1,1 @@
-pandoc -s title.md chapter-01/mt5-presentation.md -o book.epub
+pandoc -o book.epub manuscript/title.md manuscript/chapter-01/mt5-presentation.md manuscript/chapter-02/first-ea.md
