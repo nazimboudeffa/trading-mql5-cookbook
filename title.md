@@ -1,6 +1,6 @@
 ---
 title: Metatrader pour le Chef
-author: Nazim Boudeffa
+author: Jacques Aïssa
 rights:  CC BY-NC-SA 3.0
 ---
 
