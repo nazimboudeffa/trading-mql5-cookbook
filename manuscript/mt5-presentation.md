@@ -1,0 +1,11 @@
+# Présentation de Metatrader 5
+
+Quand on lance Metatrader 5 ça ressemble à ça
+
+![](../images/mt5.png)
+
+Comme vous le voyez c'est un logiciel spécifique à un broker qui s'appelle XM pour extrèmement millionnaire, je l'ai téléchargé directement du site et j'ai suivi les instructions pour l'installer lui ainsi que la version Android qui est disponbile sur le site
+
+# Comment exécuter vos scripts
+
+Dans tout ce qui suit nous allos utiliser le compte DEMO de metaquotes, pour se faire il faut créer un compte DEMO. Je vous avertis dès à présent que si vous utilisez un compte officiel ce sera à vos risques et périls, je ne suis en aucun cas responsable de votre envie de tester les choses en vrai et je vous invite à rester en mode DEMO pour une longue période avant de vous lancer dans le trading.
