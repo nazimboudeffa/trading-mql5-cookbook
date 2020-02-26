@@ -6,4 +6,4 @@ rights:  CC BY-NC-SA 3.0
 
 # Introduction
 
-Metatrader is a software to trade from you computer
+Metatrader est un logiciel de trading pour PC
