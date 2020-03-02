@@ -17,3 +17,13 @@ void onTick()
 
 }
 ```
+
+Pour executer ce sctript, voici mes étapes à suivre et qui seront valables tout au long de ce livre
+
+![](manuscript/images/step1.png)
+![](manuscript/images/step2.png)
+![](manuscript/images/step3.png)
+![](manuscript/images/step4.png)
+![](manuscript/images/step5.png)
+![](manuscript/images/step6.png)
+![](manuscript/images/step7.png)
