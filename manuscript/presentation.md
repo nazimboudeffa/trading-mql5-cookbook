@@ -23,6 +23,6 @@ Dans tout ce qui suit nous allos utiliser le compte DEMO de metaquotes, pour se 
 
 Ce livre s'adresse aux débutants en trading comme moi
 
-Nous souhaitons commencer à partir de rien, une petite somme que l'on dépose chez un broker comme XM.com, par exemple 20€ ou 50€ et que l'on souhaite faire fructifier grace à de bons scripts
+Nous souhaitons commencer à partir de rien, une petite somme que l'on dépose chez un broker comme XM.com ou AdmiralMarket.com, par exemple 20€ ou 50€ et que l'on souhaite faire fructifier grace à de bons scripts, l'objectif est de construire The One Hundred Bucks Bot
 
-Nous allons étudier quelques algorithmes dont le RSI Scalping et le trading avec Ichimoku
+Nous allons étudier quelques algorithmes dont le RSI Scalping, les moyennes mobiles et le trading avec Ichimoku
