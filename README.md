@@ -8,4 +8,4 @@ Metatrader est un logiciel de trading pour indépendants, j'ai commencé à l'ut
 
 MQL est le langage qui sert à écrire des scripts pour Metatrader et c'est ce que l'on va voir dans ce livre
 
-![mouskoutchou](mouskoutchou.png)
+Dans ce livre nous allons construire ensemble un bot qui trade 100$ rien de plus
