@@ -8,6 +8,13 @@ Comme vous le voyez c'est un logiciel spécifique à un broker qui s'appelle XM 
 
 [^XM]: https://xm.com
 
+
+# Comment obtenir Metatrader
+
+Pour télécharger Metatrader il faut se rendre sur https://www.metatrader5.com vous aurez la version standard qui vous permettera de vous connecter à n'importe quel compte
+
+Dans tout ce qui suit nous allons utiliser que des comptes DEMO
+
 # Comment exécuter vos scripts
 
 Dans tout ce qui suit nous allos utiliser le compte DEMO de metaquotes, pour se faire il faut créer un compte DEMO. Je vous avertis dès à présent que si vous utilisez un compte officiel ce sera à vos risques et périls, je ne suis en aucun cas responsable de votre envie de tester les choses en vrai et je vous invite à rester en mode DEMO pour une longue période avant de vous lancer dans le trading.
